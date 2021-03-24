@@ -1,0 +1,26 @@
+_repo: Tigre-and-Isola_64835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thompson, Will H.
+    gutenberg_agent_id: '53069'
+    url: http://www.gutenberg.org/2009/agents/53069
+description: ''
+gutenberg_issued: '2021-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64835'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Outlaws -- Fiction'
+- !lcsh 'Abduction -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Arizona -- Fiction'
+- GITenberg
+title: Tigre and Isola
+url: http://www.gutenberg.org/ebooks/64835

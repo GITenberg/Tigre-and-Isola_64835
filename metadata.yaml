@@ -1,11 +1,16 @@
 _repo: Tigre-and-Isola_64835
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64835-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Will H.
     gutenberg_agent_id: '53069'
     url: http://www.gutenberg.org/2009/agents/53069
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64835#Tigre-and-Isola
 gutenberg_issued: '2021-03-15'
 gutenberg_type: Text
 identifiers:
